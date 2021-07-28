@@ -1,0 +1,6 @@
+import random 
+a=int(input("give positive value:"))
+if a in range(1,51)
+    return True
+else:
+    return False

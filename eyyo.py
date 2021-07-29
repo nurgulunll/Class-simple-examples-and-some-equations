@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
 #q1
 class ContestResult():
     def __init__(self,winner="",second_place="",third_place=""):
@@ -47,7 +41,7 @@ def set_low(self, low):
 def get_low(self):
     return self.low
 
-#question3
+#q3
 class Quadrilateral():
     def __init__(self,x,y,x1,y1,x2,y2,x3,y3):
         self.x = x
@@ -172,7 +166,7 @@ def main4():
     
 main4()
 
-#question4
+#q4
 class Employee():
     def __init__(self,first_name,last_name,month="May"):
         self.first_name = first_name

@@ -3,3 +3,4 @@ if a in range(1,51)
     return True
 else:
     return False
+print"uza"

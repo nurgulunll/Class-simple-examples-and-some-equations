@@ -1,2 +1,2 @@
 # Coordinates equations
-# simple examples
+simple examples
